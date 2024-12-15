@@ -1,9 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// Gabriel Henrique dos Santos Alves - 2023010208
-// Davi Dias Monsores dos Santos - 2023001272
-
 typedef struct rgb {
     int r;
     int g;
